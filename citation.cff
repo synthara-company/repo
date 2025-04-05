@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the following metadata."
+title: "Multimodal AI Platform Integrating Text, Image Generation, and Visual Recognition"
+version: 1.0.0
+authors:
+  - family-names: "Synthara"
+    given-names: "Company"
+    orcid: "0009-0002-6619-5691"  
+date-released: 2025-04-05
+url: "https://github.com/synthara-company/repo"
+repository-code: "https://github.com/synthara-company/repo"
+license: "MIT" 
+keywords:
+  - multimodal AI
+  - text generation
+  - image generation
+  - visual recognition
+  - AI platform
+  - data interaction
